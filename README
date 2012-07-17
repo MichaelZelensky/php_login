@@ -1,0 +1,41 @@
+PHP Login
+
+PHP Login is a small PHP proto-application for user authorization on a website. You can use it as a starting point for creating your website.
+Homepage: http://www.miha.in/products/php_login
+
+Requirements
+
+- PHP 4+
+- MySQL 4.1+
+
+Features
+
+- AJAX-based login/logout requests
+- User registration
+- Password reminder
+- Email confirmation
+- Easy installation by running install.php script
+- Powered by PHP mysql class.
+
+Installation
+
+Just 3 steps to get happy:
+
+1. Copy files to your site root dir
+2. Specify DB access data in inc/start.inc file
+3. run install.php (during the installation a table `users` will be created in your database, so make sure this table name is available) 
+Enjoy!
+
+What then?
+
+Well, life only starts from intallation of that script. Since it is assumed to be the starting point for your site/application, start working around styles/design and adding your code, forming up your application.
+
+If you like this app:
+
+- Feel free to add your contributions at GitHub: https://github.com/MichaelZelensky/php_login
+- Feel free to send your improvement ideas in issue tracker at GitHub:  https://github.com/MichaelZelensky/php_login/issues
+- Spreading the word in your favourite forums/comminities about this micro app will also help the world become a bit better.
+
+Terms of use
+
+This product is licensed under GNU license: feel free to use, distribute and improve it. Mentioning my name and placing a link to this page would of course be met with warm gratefulness.

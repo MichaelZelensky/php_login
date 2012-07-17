@@ -1,0 +1,14 @@
+* {color: #222}
+.login_inactive { color: silver }
+.login_active { color: black }
+.logout_link {text-decoration: none; font-size: 10px; color: darkblue; font-family: Arial, sans-serif}
+.login_error {color:red}
+.form_button{color: white; text-decoration:none; background-color: lightblue; 
+	border-radius: 4px;
+	box-shadow: 1px 1px 2px #eee;
+	padding: 2px 5px;
+}
+a {	color: #4b9db8;}
+td {vertical-align: top}
+h1 {cursor:pointer}
+.c, .c a {color: grey}
