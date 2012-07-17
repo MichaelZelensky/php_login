@@ -3,6 +3,8 @@ PHP Login
 PHP Login is a small PHP proto-application for user authorization on a website. You can use it as a starting point for creating your website.
 Homepage: http://www.miha.in/products/php_login
 
+Demo: http://php_login.miha.in/
+
 Requirements
 
 - PHP 4+
